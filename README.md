@@ -21,8 +21,6 @@ Allow a round-robin style league to be created with various sports, enabling tea
 
 ## Features
 
-## Features
-
 - **League Management:**
   - Create and manage leagues with different sports (Football, Rugby, Netball).
   - Add or remove teams from leagues.
